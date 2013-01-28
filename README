@@ -1,0 +1,3 @@
+Blind Fuzzer
+
+This is a simple implementation of a fuzzer in python that mutates over a valid file.
